@@ -1,2 +1,0 @@
-2017/11/16 14:27:29 [emerg] 6740#4592: CreateDirectory() "D:\Johnny\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
-2017/11/16 15:32:59 [notice] 5048#7376: signal process started
